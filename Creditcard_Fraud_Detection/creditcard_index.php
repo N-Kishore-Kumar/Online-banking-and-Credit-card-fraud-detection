@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 	<head>
     <title> Credit Card fraud detection </title>
